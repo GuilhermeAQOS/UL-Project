@@ -1,12 +1,12 @@
 {
-  "representation_id": "rep_v1_baseline",
-  "created_at": "2026-04-30T17:03:01+00:00",
+  "representation_id": "rep_v3_no_hotel",
+  "created_at": "2026-04-30T16:15:13+00:00",
   "dataset_path": "hotel_bookings_course_release_v1.csv",
   "dataset_sha256": "7c2ae42a7353905ea136e5c2287f17c92c5435826598bfbb8491c6f0c7b1fc06",
   "n_rows": 119210,
-  "n_features_total": 72,
+  "n_features_total": 70,
   "n_features_numerical": 16,
-  "n_features_ohe": 56,
+  "n_features_ohe": 54,
   "numerical_features": [
     "lead_time",
     "arrival_date_year",
@@ -26,7 +26,6 @@
     "total_of_special_requests"
   ],
   "categorical_features": [
-    "hotel",
     "arrival_date_month",
     "meal",
     "country",
@@ -55,5 +54,6 @@
   "categorical_imputation": "most_frequent",
   "categorical_encoding": "OneHotEncoder(handle_unknown='ignore', sparse_output=False)",
   "rare_category_threshold": 0.01,
-  "implied_metric": "Euclidean distance in standardised mixed space (z-scored numericals + one-hot binaries; numerical block dominates total variance)."
+  "implied_metric": "Euclidean distance in standardised mixed space (z-scored numericals + one-hot binaries; numerical block dominates total variance).",
+  "notes": "Hotel dropped per instructor feedback Q2. Runs deferred to final report."
 }
