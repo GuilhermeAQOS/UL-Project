@@ -1,0 +1,60 @@
+{
+  "representation_id": "R1_robust",
+  "created_at": "2026-06-03T22:44:56+00:00",
+  "dataset_path": "hotel_bookings_course_release_v1.csv",
+  "dataset_sha256": "d10cdeb07de9309007f528d6499a2c0467ae7a6b287b80ffd759e11e61801639",
+  "n_rows": 119210,
+  "n_features_total": 70,
+  "options": {
+    "scaler": "robust",
+    "include_adr": false,
+    "cyclic_month": false,
+    "drop_redundant": false
+  },
+  "numerical_features_log1p": [
+    "lead_time",
+    "previous_cancellations",
+    "previous_bookings_not_canceled"
+  ],
+  "numerical_features_scaled_only": [
+    "arrival_date_year",
+    "arrival_date_week_number",
+    "arrival_date_day_of_month",
+    "stays_in_weekend_nights",
+    "stays_in_week_nights",
+    "adults",
+    "children",
+    "babies",
+    "is_repeated_guest",
+    "required_car_parking_spaces",
+    "total_of_special_requests"
+  ],
+  "categorical_features_ohe": [
+    "hotel",
+    "arrival_date_month",
+    "meal",
+    "country",
+    "market_segment",
+    "distribution_channel",
+    "reserved_room_type",
+    "deposit_type",
+    "customer_type"
+  ],
+  "cyclic_features": [],
+  "excluded_leakage": [
+    "is_canceled",
+    "reservation_status",
+    "reservation_status_date"
+  ],
+  "excluded_post_booking": [
+    "assigned_room_type",
+    "days_in_waiting_list",
+    "booking_changes"
+  ],
+  "excluded_id_like": [
+    "agent",
+    "company"
+  ],
+  "rare_category_threshold": 0.01,
+  "implied_metric": "Euclidean distance on rows of the R1_robust matrix (scaler=robust, include_adr=False, cyclic_month=False, drop_redundant=False). One-hot and sin/cos columns are not rescaled."
+}

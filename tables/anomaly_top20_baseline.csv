@@ -1,0 +1,21 @@
+,anomaly_score,cluster,hotel,lead_time,adr,stays_in_week_nights,stays_in_weekend_nights,adults,children,babies,market_segment,customer_type,country,deposit_type,meal,total_of_special_requests,is_canceled
+46619,655.6883,0,City Hotel,37,84.45,2,0,2,0,10,Online TA,Transient,PRT,No Deposit,BB,1,0
+2173,533.3292,0,Resort Hotel,338,0.0,0,2,55,0,0,Direct,Other,PRT,No Deposit,HB,0,1
+78656,531.4922,0,City Hotel,11,95.0,1,2,1,0,9,Corporate,Transient-Party,GBR,No Deposit,BB,0,0
+1643,437.5126,0,Resort Hotel,336,0.0,2,1,50,0,0,Direct,Other,PRT,No Deposit,BB,0,1
+1539,274.9559,0,Resort Hotel,304,0.0,3,0,40,0,0,Direct,Other,PRT,No Deposit,BB,0,1
+1962,119.8608,0,Resort Hotel,352,0.0,3,1,27,0,0,Direct,Other,PRT,No Deposit,HB,0,1
+1917,119.8275,0,Resort Hotel,349,0.0,3,1,27,0,0,Direct,Other,PRT,No Deposit,HB,0,1
+2164,110.7396,0,Resort Hotel,361,0.0,5,2,26,0,0,Offline TA/TO,Other,PRT,No Deposit,BB,0,1
+2003,110.681,0,Resort Hotel,354,0.0,5,2,26,0,0,Offline TA/TO,Other,PRT,No Deposit,BB,0,1
+1587,110.6654,0,Resort Hotel,333,0.0,5,2,26,0,0,Offline TA/TO,Other,PRT,No Deposit,BB,0,1
+1884,110.5959,0,Resort Hotel,347,0.0,5,2,26,0,0,Offline TA/TO,Other,PRT,No Deposit,BB,0,1
+1752,110.5907,0,Resort Hotel,340,0.0,5,2,26,0,0,Offline TA/TO,Other,PRT,No Deposit,BB,0,1
+2228,62.9575,0,Resort Hotel,328,0.0,5,2,20,0,0,Direct,Other,PRT,No Deposit,BB,0,1
+2418,62.9026,0,Resort Hotel,334,0.0,5,2,20,0,0,Direct,Other,PRT,No Deposit,BB,0,1
+14038,61.2846,0,Resort Hotel,126,110.0,50,19,1,0,0,Direct,Transient,,No Deposit,HB,3,0
+14037,46.8286,0,Resort Hotel,113,110.5,42,18,1,0,0,Direct,Transient,,No Deposit,HB,3,0
+328,40.5338,0,Resort Hotel,55,133.16,10,4,2,10,0,Offline TA/TO,Contract,PRT,No Deposit,BB,1,1
+9839,39.3015,0,Resort Hotel,322,25.5,40,16,2,0,0,Offline TA/TO,Transient,PRT,No Deposit,BB,0,1
+33924,39.2224,0,Resort Hotel,71,28.79,40,16,2,0,0,Online TA,Transient,GBR,No Deposit,BB,0,0
+29046,30.575,1,Resort Hotel,138,80.0,2,2,2,0,0,Direct,Transient-Party,AUT,No Deposit,HB,0,0
