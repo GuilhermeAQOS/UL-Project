@@ -1,0 +1,5 @@
+variant,k_cluster,ari_mean,ari_std
+R1_robust,2,-0.0169,0.0
+R1_robust,3,-0.0017,0.0002
+R1_robust,4,0.0937,0.0
+R1_robust,5,0.0411,0.0

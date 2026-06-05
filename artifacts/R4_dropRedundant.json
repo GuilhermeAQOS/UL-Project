@@ -1,10 +1,10 @@
 {
   "representation_id": "R4_dropRedundant",
-  "created_at": "2026-06-03T22:44:57+00:00",
+  "created_at": "2026-06-05T01:26:39+00:00",
   "dataset_path": "hotel_bookings_course_release_v1.csv",
-  "dataset_sha256": "d10cdeb07de9309007f528d6499a2c0467ae7a6b287b80ffd759e11e61801639",
-  "n_rows": 119210,
-  "n_features_total": 66,
+  "dataset_sha256": "7c2ae42a7353905ea136e5c2287f17c92c5435826598bfbb8491c6f0c7b1fc06",
+  "n_rows": 29966,
+  "n_features_total": 68,
   "options": {
     "scaler": "standard",
     "include_adr": false,

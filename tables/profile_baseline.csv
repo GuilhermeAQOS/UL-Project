@@ -1,3 +1,3 @@
 cluster,size,size_pct,mean_lead_time,mean_adr,mean_stays_in_week_nights,mean_stays_in_weekend_nights,mean_adults,mean_children,mean_total_of_special_requests,mean_previous_cancellations,top_hotel,top_hotel_pct,top_market_segment,top_market_segment_pct,top_customer_type,top_customer_type_pct,top_distribution_channel,top_distribution_channel_pct,top_deposit_type,top_deposit_type_pct,mean_is_canceled
-0,115183,96.6,106.68,103.26,2.53,0.94,1.88,0.11,0.57,0.07,City Hotel,67.0,Online TA,48.5,Transient,74.8,TA/TO,83.7,No Deposit,87.3,0.379
-1,4027,3.4,30.66,64.99,1.48,0.45,1.4,0.03,0.63,0.49,Resort Hotel,50.1,Corporate,41.0,Transient,81.1,Corporate,43.6,No Deposit,98.2,0.143
+0,28950,96.6,106.53,103.22,2.54,0.95,1.87,0.11,0.56,0.08,City Hotel,66.8,Online TA,48.0,Transient,75.1,TA/TO,83.7,No Deposit,87.1,0.378
+1,1016,3.4,27.65,64.99,1.42,0.44,1.39,0.03,0.56,0.51,Resort Hotel,50.5,Corporate,41.2,Transient,80.9,Corporate,44.0,No Deposit,97.4,0.144
